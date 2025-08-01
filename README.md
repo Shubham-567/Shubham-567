@@ -1,42 +1,41 @@
-
-
 <!-- 📬 Contact Badges -->
 <p align="center">
-  <a href="mailto:shubhampatil.dev@gmail.com">
+  <a href="mailto:shubhampatil1356@gmail.com"target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/shubhampatil56" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://shubham-patil56.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0197F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <h1 align="center">Hey, I'm Shubham Patil 👋</h1>
-<h3 align="center">Full Stack Web Developer • MERN Stack • TypeScript Enthusiast</h3>
-
-<!-- 👨‍💻 Hero GIF (Replaced) -->
-<p align="center">
-  <img src="https://github.com/Shubham-567/shubham-567/assets/your-gif-id/updated-coding-gif.gif" width="280" alt="developer gif" />
-</p>
+<h3 align="center">Full Stack Web Developer • MERN Stack • Next.js Enthusiast</h3>
 
 <!-- ⌨️ Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Clean%2C+Scalable+Web+Apps.;MERN+%7C+React%2C+Node%2C+MongoDB.;Type-safe+%7C+Modern+Frontend.;Let's+Build+Reliable+Software!" alt="Typing animation" />
 </p>
 
+<!-- 👨‍💻 Hero GIF -->
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width=500 alt="developer gif" />
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
 
 Hi, I’m **Shubham Patil**, a full-stack developer from **Maharashtra, India**.  
-I focus on building maintainable, scalable, and clean web applications using the **MERN stack** and modern tooling.
+I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
-- 🧠 Strong emphasis on **code quality**, **architecture**, and **developer experience**
-- 🛠 Working with tools like **TypeScript**, **Next.js**, and **Tailwind CSS**
-- 🎯 Open to **full-time**, **remote**, and **freelance** opportunities
-- 🧩 Enjoy learning, building, and solving real-world challenges
+- Built full-stack projects like **RentEase** and **PitchBase**
+- Experience in **React**, **Node.js**, **MySQL**, **MongoDB**, **Tailwind CSS**, **Next.js**
+- Interested in frontend and backend roles
+- Currently looking for internships and learning opportunities
 
 ---
 
@@ -46,41 +45,6 @@ I focus on building maintainable, scalable, and clean web applications using the
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,python,tailwindcss,git,github,figma,vscode" />
 </p>
 
-<!--
----
-
-## 🚀 Featured Projects
-
-> A look at some recent projects I've built with attention to detail and performance:
-
-### 🛻 RentEase – Car Rental Platform  
-Real-time car booking system with user dashboards and role-based access.  
-**Stack:** React · Node.js · Express · MySQL · TypeScript  
-🔗 [Live Demo](https://rentease.example.com) · [Code](https://github.com/Shubham-567/rentease)
-
----
-
-### 💡 PitchBase – Startup Pitch Board  
-Users can pitch and browse startup ideas with GitHub authentication.  
-**Stack:** Next.js · TypeScript · Sanity CMS · Tailwind CSS  
-🔗 [Live Demo](https://pitchbase.example.com) · [Code](https://github.com/Shubham-567/pitchbase)
-
----
-
-### 🧠 PlanEase – Lesson Planning Tool  
-Tool for teachers to create, edit, and manage lesson plans with export features.  
-**Stack:** React · Tailwind CSS · ShadCN UI  
-🔗 [Live Demo](https://planease.example.com) · [Code](https://github.com/Shubham-567/planease)
-
----
-
-### 🏆 Leaderboard App  
-Real-time leaderboard system with filtering, history, and score tracking.  
-**Stack:** React · Express · MongoDB  
-🔗 [Live Demo](https://leaderboard.example.com) · [Code](https://github.com/Shubham-567/leaderboard)
-
--->
-
 ---
 
 ## 📊 GitHub Activity
@@ -89,33 +53,16 @@ Real-time leaderboard system with filtering, history, and score tracking.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-567&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-567&theme=tokyo-night&hide_border=true&custom_title=Shubham's%20Contribution%20Graph" />
 </p>
 
 ---
 
-## 📬 Reach Out
-
-<p align="center">
-  <a href="mailto:shubhampatil.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <em>“The best way to predict the future is to build it.”</em>
 </p>
-
 
 <!-- 🎯 Animated Footer -->
 <p align="center">
