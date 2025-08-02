@@ -49,7 +49,7 @@ I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-56&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-567&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-567&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
