@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Shubham Patil 👋</h1>
-<h3 align="center">Full Stack Web Developer • MERN Stack • Next.js Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer • MERN Stack </h3>
 
 <!-- ⌨️ Typing Text -->
 <p align="center">
