@@ -9,9 +9,7 @@
   <a href="https://shubham-patil56.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0197F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-<!--   <a href="https://github.com/Shubham-567" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Shubham-567&color=blue&style=for-the-badge&label=GITHUB+PROFILE+VIEWS&abbreviated=true"/>
-  </a> -->
+<!--   <a href="https://github.com/Shubham-567" 
 </p>
 
 <h1 align="center">Hey, I'm Shubham Patil 👋</h1>
