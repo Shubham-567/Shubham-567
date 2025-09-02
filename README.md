@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I'm Shubham Patil 👋</h1>
+<h1 align="center">Hey, I'm Shubham Patil</h1>
 <h3 align="center">Full Stack Web Developer • MERN Stack </h3>
 
 <!-- ⌨️ Typing Text -->
