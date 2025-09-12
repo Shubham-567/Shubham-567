@@ -14,7 +14,7 @@
 <h1 align="center">Hey, I'm Shubham Patil</h1>
 <h3 align="center">Full Stack Web Developer • MERN Stack </h3>
 
-<!-- ⌨️ Typing Text -->
+<!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Clean%2C+Scalable+Web+Apps.;MERN+%7C+React%2C+Node%2C+MongoDB.;Type-safe+%7C+Modern+Frontend.;Let's+Build+Reliable+Software!" alt="Typing animation" />
 </p>
