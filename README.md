@@ -27,7 +27,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I’m **Shubham Patil**, a full-stack developer from **Maharashtra, India**.  
 I build web apps using the **MERN stack**, TypeScript, and modern tools.
@@ -39,7 +39,7 @@ I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,python,tailwindcss,git,github,figma,vscode" />
@@ -47,7 +47,7 @@ I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubham-567&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-567&theme=tokyonight&hide_border=true" height="170" />
