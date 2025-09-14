@@ -39,7 +39,7 @@ I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,python,tailwindcss,git,github,figma,vscode" />
