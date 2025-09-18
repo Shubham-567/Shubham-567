@@ -33,7 +33,7 @@ Hi, I’m **Shubham Patil**, a full-stack developer from **Maharashtra, India**.
 I build web apps using the **MERN stack**, TypeScript, and modern tools.
 
 - Built full-stack projects like **RentEase** and **PitchBase**
-- Experience in **React**, **Node.js**, **MySQL**, **MongoDB**, **Tailwind CSS**, **Next.js**
+- Experience in **React**, **Node.js**, **MySQL**, **MongoDB**, **Tailwind CSS**, **Next.js** 
 - Interested in frontend and backend roles
 - Currently looking for internships and learning opportunities
 
