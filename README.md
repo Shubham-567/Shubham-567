@@ -27,7 +27,7 @@
 
 ---
 
-## About Me
+## About Me 
 
 Hi, I’m **Shubham Patil**, a full-stack developer from **Maharashtra, India**.  
 I build web apps using the **MERN stack**, TypeScript, and modern tools.
