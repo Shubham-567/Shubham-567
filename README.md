@@ -64,7 +64,7 @@ I build web apps using the **MERN stack**, TypeScript, and modern tools.
   <em>“The best way to predict the future is to build it.”</em>
 </p>
 
-<!-- 🎯 Animated Footer -->
+<!-- 🎯Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0197F6&height=100&section=footer&fontColor=ffffff" />
 </p>
